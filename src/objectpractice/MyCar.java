@@ -2,6 +2,8 @@ package objectpractice;
 
 class MyCar {
 
+
+
     public static void main(String[] args) {
         MyCar obj = new MyCar();
 
