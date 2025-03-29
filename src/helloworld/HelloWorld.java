@@ -1,6 +1,6 @@
 package helloworld;
 
-public class HelloWorld {
+public class HelloWorld extends Object{
 
     public static void main(String[] args) {
 
